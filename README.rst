@@ -3,6 +3,8 @@ Kafka: Interesting, Useful, or Weird
 
 Here's a brief, but growing, collection of media that I've found to be one of the above (or something else) as relates to Kafka and, more broadly, streaming data.
 
+.. contents:: What's in here?
+
 Tools
 -----
 
