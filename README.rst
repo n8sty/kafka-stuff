@@ -50,3 +50,8 @@ Miscellaneous, cool
 `Streaming data from PostgreSQL to Kafka using Debezium <https://medium.com/@tilakpatidar/streaming-data-from-postgresql-to-kafka-using-debezium-a14a2644906d>`__
 
 `Publishing with Apache Kafka at The New York Times <https://app.getpocket.com/read/1881803965>`__ This is the article that got me interested in using Kafka in novel ways. The New York Times,  the Grey Lady, uses Kafka as a durable, forever data store. This is wildand I don't think will ever actually work anywhere else in practice but it's very intersting / shows the power of Kafka and its configurability.
+
+Troubleshooting
+---------------
+
+`Corrupted Index File <https://community.hortonworks.com/content/supportkb/191865/errorfound-a-corrupted-index-file-due-to-requireme.html>`__
